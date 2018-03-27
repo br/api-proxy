@@ -1,1 +1,0 @@
-require 'rack/host_redirect'
